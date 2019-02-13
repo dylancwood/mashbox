@@ -1,0 +1,7 @@
+{
+  "statusFilePath": "./mashbox-state.json", 
+  "logFilePath": "./mashbox-log.json", 
+  "episodeDir": "./episodes", 
+  "vlcExecutablePath": "/usr/local/bin/vlc", 
+  "vlcOptions": ["--fullscreen", "--play-and-exit"]
+}
